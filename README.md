@@ -7,4 +7,5 @@ It is a ToDo-List project where you can add your daily task and all, where you a
 ## Project Screenshots
 
 ![Todo-List](public/todo1.png)
+
 ![Todo-List](public/todo2.png)
